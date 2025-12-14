@@ -64,3 +64,6 @@ The system stores the last five detected commands and applies **majority voting*
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
+Note: finger_count.py is the main implementation file of the project.
+Other files were used during development and testing.
